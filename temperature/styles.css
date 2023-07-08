@@ -1,0 +1,23 @@
+.container1{
+    padding:60px;
+    padding-top:100px;
+  background:linear-gradient(black, grey);
+  color:white;
+}
+.container2{
+    border:solid;
+    border-width:1px 1px 1px 0;
+    padding:40px;
+  }
+.wrap{
+  margin-left:180px;
+    display:flex;
+}
+
+.design{
+  background:linear-gradient(black, grey);
+  color:white;
+}
+select{
+  color:grey;
+}
